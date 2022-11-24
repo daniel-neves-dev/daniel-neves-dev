@@ -18,3 +18,8 @@ class Programmer
     <img align = "center" alt = "css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align = "center" alt = "css" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </div></br>
+
+### Wakatime:
+<div style ="display: inline_block">
+<img align = "center" alt = "css" src="https://wakatime.com/share/@daniel_neves/e3fb8bcb-8ca5-41b7-8dd6-82491419458b.svg" height = "400"/>
+</div></br>
