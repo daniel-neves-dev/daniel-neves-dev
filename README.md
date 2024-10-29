@@ -9,7 +9,8 @@ class Programmer
 ```
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-neves-dev&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-neves-dev&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens e ferramentas:
 <div style ="display: inline_block"></br>
