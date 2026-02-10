@@ -1,14 +1,12 @@
 ## Seja muito bem vindo(a)!!! Welcome!!! 👋
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tecnologia/)
+![[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tecnologia/)
 
 ```ruby 
 class Programmer
 
 	def initialize() 
 ```
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-neves-dev&show_icons=true&theme=dracula)
 
 ### Linguagens e ferramentas:
 <div style ="display: inline_block"></br>
