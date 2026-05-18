@@ -8,9 +8,11 @@ class Programmer
 	def initialize() 
 ```
 
-### Linguagens e ferramentas:
-<div style ="display: inline_block"></br>
-	[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,postgres)](https://skillicons.dev)
-</div></br>
+### Languages and tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python" />
+  </a>
+</p>
 
 
