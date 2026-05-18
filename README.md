@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Daniel Neves 
 
-### 📈 Stats & Connect with Me
+### 📱 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/daniel-tecnologia/)
+
+#### 🖥️ Software Engineering Student @42 São Paulo - Brazil
   
-🚀 Software Engineering Student @ 42 São Paulo - Brazil
-💻 Specializing in Systems Programming, C, Python and Software Architecture
+#### 💻 Specializing in Systems Programming: C, Python and Software Architecture
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -32,6 +33,7 @@ I am currently navigating the 42 curriculum, a peer-to-peer, project-based codin
 
 ---
 
+### 📈 Stats
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniel-neves-dev&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" height="180" style="display: inline-block; vertical-align: middle;" />
   &nbsp;&nbsp;
