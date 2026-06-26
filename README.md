@@ -23,7 +23,7 @@
 </br>
 I am currently navigating the 42 curriculum, a peer-to-peer, project-based coding school with no teachers or lectures. It demands deep problem-solving, autonomy, and meticulous attention to memory management and system architecture.
 
-* 🕹️ **Current Level:** Libft
+* 🕹️ **Current Level:** Push Swap
 * 🛠️ **Core Strengths:** Low-level C programming, UNIX systems, algorithm design, and strict memory leak hunting.
 
 ### 🛠️ Tech Stack & Tooling
